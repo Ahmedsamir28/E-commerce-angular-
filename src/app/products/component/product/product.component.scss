@@ -1,0 +1,54 @@
+
+
+    .item {
+        width: 25%;
+        transition: .3s;
+        width: 300px;
+        border: 1px solid rgba(168, 168, 168, 0.545);
+        border-radius: 10px;
+        box-shadow: 0px 0px 0px -5px rgba(53, 53, 53, 0.75);
+        text-align: center;
+
+        img {
+            width: 80%;
+            height: 230px;
+            padding: 10px;
+
+        }
+
+        p {
+            margin: 15px 0;
+            height: 150px;
+            overflow: hidden;
+            font-size: 14px;
+            padding: 5px 15px;
+        }
+
+        h4 {
+            height: 75px;
+            // overflow: hidden;
+            padding: 5px 15px;
+            font-size: 13px;
+            font-weight: 800;
+            // background-color: #eee;
+            color: black;
+            font-weight: 600;
+            // margin-top: 10px;
+            line-height: 2;
+            overflow: hidden;
+        }
+        .btn {
+            font-size: 13px;
+            font-weight: 500;
+        }
+
+        span {
+            color: #707070;
+            font-weight: bolder;
+        }
+
+        &:hover {
+            transform: scale(1.1);
+            cursor: pointer;
+        }
+    }

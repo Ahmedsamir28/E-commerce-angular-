@@ -1,0 +1,25 @@
+{
+    "posts":[
+        {
+            "id":"2",
+            "firstName":"ahmed",
+            "lastNAme":"samir",
+            "email":"ahmedsa.125@gmail.com",
+            "mobile":"123548843",
+            "salary":"80,000"
+        },
+
+        {
+            "id":"3",
+            "firstName":"mohamed",
+            "lastNAme":"ali",
+            "email":"mohamed125@gmail.com",
+            "mobile":"1576786783",
+            "salary":"90,000"
+        }
+    ],
+    "signupUsers":[],
+    "profile":{
+        "name":"typicode"
+    }
+}
